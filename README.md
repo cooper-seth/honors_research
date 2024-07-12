@@ -39,11 +39,3 @@ most important aggregations to note are:
 * All faculty and staff salary which is measured per student at the institution
 
 * All faculty experience "ranks" are measured as a proportion of the faculty/staffs
-
-## Copyright Information
-
-This code is my original work and is documented thoroughly. The paper itself 
-is available but has been submitted to conferences and will soon be submitted
-for publication. While I encourage replication attempts and even innovations to
-my own work, this is my intellectual property so I ask that you do not copy it 
-for the 
